@@ -96,7 +96,7 @@ elif(modo==2):
                 print('jogador 1 vence')
                 pontos1 += 1
             elif(ganhador==2):
-                print('jogador 2 vence')
+                print('computador 2 vence')
                 pontos2 += 1
 
         else:
@@ -114,10 +114,10 @@ elif(modo==3):
     while True:
         ganhador = jokenpo(random.randint(1,3), random.randint(1,3))
         if(ganhador == 1):
-            print('jogador 1 vence')
+            print('computador 1 vence')
             pontos1 += 1
         elif(ganhador == 2):
-            print('jogador 2 vence')
+            print('computador 2 vence')
             pontos2 += 1
 
         print(f'\ntabela de pontos\n------\n{pontos1} x {pontos2} \n')
