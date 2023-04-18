@@ -1,4 +1,4 @@
-#1-pedra 2-papel 3-tesoura
+#1-pedra 2-papel 3-tesoura.
 
 #definir as variaveis da tabela de pontos
 pontos1=0
