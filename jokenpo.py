@@ -14,7 +14,7 @@ def fimdejogo():
     print(f'\ntabela de pontos\n------\n{pontos1} x {pontos2}\n')
     print(  'obrigado por jogar!\nJogo feito por:\n'
         'Vitor Nicoletti\n'
-        'Vinícios Yamamoto Borges\n'
+        'Vinícius Yamamoto Borges\n'
         'Gabriel Vidal Schneider\n'
         'Luca  Dias David\n'
         'Mohamad Kassem Diab')
